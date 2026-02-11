@@ -7,3 +7,5 @@
 | 23.01.2026 | 2          | Cisco project to finish     |                      |
 | 24.01.2026 | 5          | Ending the cisco project    | Work submitted       |
 | 01.02.2026 | 5          | Lab 1, 2 & 3                | Work submitted       |
+| 04.02.2026 | 4.5        | Booking system phase1part1  | Work submitted       |
+| 11.02.2026 | 3          | Booking system part 2       | Work submitted       |
