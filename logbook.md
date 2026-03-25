@@ -15,4 +15,5 @@
 | 14.03.2026 | 2          | Lab 7, 8, 9                 | Work submitted       |
 | 15.03.2026 | 2          | Lab 10, 11, 12              | Work submitted       |
 | 16.03.2026 | 3          | Lab 13, 14, 15              | Work submitted       |
+| 16.03.2026 | 3          | Lab 16, 17, 18              | Work submitted       |
 
